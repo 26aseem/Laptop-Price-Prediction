@@ -9,9 +9,9 @@
 ![Description of Dataset](/assets/images/dataset.png)
 
 **Check for Null Values** : <br/>
-![Check for Null Values in the dataset](/assets/images/null values.png)
+![Check for Null Values in the dataset](/assets/images/null_values.png)
 <br>
-![Check for Null Values in the dataset](/assets/images/null values code.png)
+![Check for Null Values in the dataset](/assets/images/null_values_code.png)
 <br>
 There is no Null Value in the Dataset <br/>
 

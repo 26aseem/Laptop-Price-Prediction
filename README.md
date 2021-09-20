@@ -5,10 +5,10 @@
 
 **Shape of the Dataset** : (1302, 12) <br/> Rows: 1302 <br/> Columns: 12 <br/> <br/>
 
-### Description of Dataset : ### <br/>
+### Description of Dataset : 
 ![Description of Dataset](/assets/images/dataset.png)
 
-### Check for Null Values : ### <br/>
+### Check for Null Values : 
 ![Check for Null Values in the dataset](/assets/images/null_values.png)
 <br>
 ![Check for Null Values in the dataset](/assets/images/null_values_code.png)
@@ -16,51 +16,41 @@
 There is no Null Value in the Dataset <br/>
 
 
-### Description of different Features : ### <br/>
+### Description of different Features : 
 
 ![](/assets/images/company.png)
-<br>
 Count Plot for CPU <br/>
 
 ![](/assets/images/touchscreen.png)
-<br>
-Count Plot for Touchscreen Feature <br/>
+Count Plot for Touchscreen Feature <br/><br/>
 
 ![](/assets/images/inch.png)
-<br>
-Count Plot for Screen Size <br/>
+Count Plot for Screen Size <br/><br/><br/>
 
 ![](/assets/images/Typename.png)
-<br>
-Count Plot for Type Name <br/>
+Count Plot for Type Name <br/><br/>
 
 ![](/assets/images/RAM.png)
-<br>
-Count Plot for RAM <br/>
+Count Plot for RAM <br/><br/>
 
 ![](/assets/images/OS.png)
-<br>
-Count Plot for OS <br/>
+Count Plot for OS <br/><br/>
 
 
 
 ### Price vs Other Features : ### <br/>
 
 ![](/assets/images/CPUvsprice.png)
-<br>
-CPU vs Price Plot <br/>
+CPU vs Price Plot <br/><br/>
 
 ![](/assets/images/RAMvsprice.png)
-<br>
-RAM vs Price Plot <br/>
+RAM vs Price Plot <br/><br/>
 
 ![](/assets/images/weightVSprice.png)
-<br>
-Laptop Weight(in kg) vs Price Plot <br/>
+Laptop Weight(in kg) vs Price Plot <br/><br/>
 
 ![](/assets/images/touchscreenVSprice.png)
-<br>
-Touchscreen vs Price Plot <br/>
+Touchscreen vs Price Plot <br/><br/>
 
 
 

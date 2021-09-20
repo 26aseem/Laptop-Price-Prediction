@@ -8,6 +8,11 @@
 **Description of Dataset** : <br/>
 ![Description of Dataset](/assets/images/dataset.png)
 
+**Check for Null Values** : <br/>
+![Check for Null Values in the dataset](/assets/images/null values.png)
+<br>
+There is no Null Value in the Dataset <br/>
+
 **Library & Frameworks used** : 
 - Pandas 
 - Numpy

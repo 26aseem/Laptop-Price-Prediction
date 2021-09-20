@@ -50,8 +50,8 @@ RAM vs Price Plot <br/><br/>
 ![](/assets/images/WeightVSprice.png)
 Laptop Weight(in kg) vs Price Plot <br/><br/>
 
-![](/assets/images/touchscreenVSprice.png)
-Touchscreen vs Price Plot <br/><br/>
+![](/assets/images/typeVSprice.png)
+Type Name vs Price Plot <br/><br/>
 
 
 

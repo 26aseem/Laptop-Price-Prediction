@@ -20,44 +20,44 @@ There is no Null Value in the Dataset <br/><br/>
 
 ### Description of different Features : 
 
-![](/assets/images/company.png)
-Count Plot for CPU <br/>
+![](/assets/images/company.png)<br/>
+Count Plot for CPU <br/><br/>
 
-![](/assets/images/touchscreen.png)
+![](/assets/images/touchscreen.png)<br/>
 Count Plot for Touchscreen Feature <br/><br/>
 
-![](/assets/images/inch.png)
+![](/assets/images/inch.png)<br/>
 Count Plot for Screen Size <br/><br/><br/>
 
-![](/assets/images/Typename.png)
+![](/assets/images/Typename.png)<br/>
 Count Plot for Type Name <br/><br/>
 
-![](/assets/images/RAM.png)
+![](/assets/images/RAM.png)<br/>
 Count Plot for RAM <br/><br/>
 
-![](/assets/images/OS.png)
+![](/assets/images/OS.png)<br/>
 Count Plot for OS <br/><br/>
 
 
 ### Price vs Other Features : 
 
-![](/assets/images/CPUvsprice.png)
+![](/assets/images/CPUvsprice.png)<br/>
 CPU vs Price Plot <br/><br/>
 
-![](/assets/images/RAMvsprice.png)
+![](/assets/images/RAMvsprice.png)<br/>
 RAM vs Price Plot <br/><br/>
 
-![](/assets/images/WeightVSprice.png)
+![](/assets/images/WeightVSprice.png)<br/>
 Laptop Weight(in kg) vs Price Plot <br/><br/>
 
-![](/assets/images/typeVSprice.png)
+![](/assets/images/typeVSprice.png)<br/>
 Type Name vs Price Plot <br/><br/>
 
 
 
 ### Correlation between Features : 
 
-![](/assets/images/correlation.png)
+![](/assets/images/correlation.png)<br/>
 Heatmap for correlation between different features <br/><br/>
 
 
@@ -79,13 +79,13 @@ Heatmap for correlation between different features <br/><br/>
 #### Output Feature
 - Price
 
-![](/assets/images/Final_dataset.png)
+![](/assets/images/Final_dataset.png)<br/>
 Final Dataset before encoding <br/><br/>
 
 
 ### One Hot Encoding : 
 
-![](/assets/images/encoding.png)
+![](/assets/images/encoding.png)<br/>
 Code for One Hot Encoding where the number of features increases to 38<br/><br/>
 
 

@@ -5,6 +5,9 @@
 
 **Shape of the Dataset** : (1302, 12) <br/> Rows: 1302 <br/> Columns: 12 <br/> <br/>
 
+**Description of Dataset** :
+![Description of Dataset](/assets/images/dataset.png)
+
 **Library & Frameworks used** : 
 - Pandas 
 - Numpy
@@ -35,7 +38,6 @@
 19. Lasso Least Angle Regression
 <br/><br/>
 
-![Description of Dataset](/assets/images/dataset.png)
 
 
 

@@ -7,10 +7,10 @@
 
 **Shape of the Dataset** : (1302, 11) <br/> Rows: 1302 <br/> Columns: 11 <br/> <br/>
 
-### Description of Dataset : 
+## Description of Dataset : 
 ![Description of Dataset](/assets/images/dataset.png)
 
-### Check for Null Values : 
+## Check for Null Values : 
 ![Check for Null Values in the dataset](/assets/images/null_values.png)
 <br>
 ![Check for Null Values in the dataset](/assets/images/null_values_code.png)
@@ -18,7 +18,7 @@
 There is no Null Value in the Dataset <br/><br/>
 
 
-### Description of different Features : 
+## Description of different Features : 
 
 ![](/assets/images/company.png)<br/>
 Count Plot for CPU <br/><br/>
@@ -39,7 +39,7 @@ Count Plot for RAM <br/><br/>
 Count Plot for OS <br/><br/>
 
 
-### Price vs Other Features : 
+## Price vs Other Features : 
 
 ![](/assets/images/CPUvsprice.png)<br/>
 CPU vs Price Plot <br/><br/>
@@ -55,14 +55,14 @@ Type Name vs Price Plot <br/><br/>
 
 
 
-### Correlation between Features : 
+## Correlation between Features : 
 
 ![](/assets/images/correlation.png)<br/>
 Heatmap for correlation between different features <br/><br/>
 
 
-### Features in the final Dataset : <br/>
-#### Input Features 
+## Features in the final Dataset : <br/>
+### Input Features 
 - Company	
 - Type Name	
 - RAM(GB)	
@@ -76,14 +76,14 @@ Heatmap for correlation between different features <br/><br/>
 - GPU Brand	
 - OS
 
-#### Output Feature
+### Output Feature
 - Price
 
 ![](/assets/images/Final_dataset.png)<br/>
 Final Dataset before encoding <br/><br/>
 
 
-### One Hot Encoding : 
+## One Hot Encoding : 
 
 ![](/assets/images/encoding.png)<br/>
 Code for One Hot Encoding where the number of features increases to 38<br/><br/>
@@ -120,34 +120,34 @@ Code for One Hot Encoding where the number of features increases to 38<br/><br/>
 <br/><br/>
 
 
-### Performance of different Machine Learning Models : 
+## Performance of different Machine Learning Models : 
 
 ![](/assets/images/mlmodels.png)
 <br/><br/>
 
 
-### Tuning the Hyperparameters of the final ML Model : 
+## Tuning the Hyperparameters of the final ML Model : 
 
 ![](/assets/images/tunedmodel.png)
 <br/><br/>
 
-### Learning Curve for the final Model : 
+## Learning Curve for the final Model : 
 
 ![](/assets/images/learningcurve.png)
 <br/><br/>
 
-### Transformation Pipeline for the final Model : 
+## Transformation Pipeline for the final Model : 
 
 ![](/assets/images/transformationPipeline.png)
 <br/><br/>
 
 
-### GUI : 
+## GUI : 
 
 ![](/assets/images/gui.png)
 <br/><br/>
 
-### Prediction of Laptop Price : 
+## Prediction of Laptop Price : 
 
 ![](/assets/images/output.png)
 <br/><br/>

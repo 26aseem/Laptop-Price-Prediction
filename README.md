@@ -131,6 +131,11 @@ Code for One Hot Encoding where the number of features increases to 38<br/><br/>
 ![](/assets/images/tunedmodel.png)
 <br/><br/>
 
+### Learning Curve for the final Model : 
+
+![](/assets/images/learningcurve.png)
+<br/><br/>
+
 ### Transformation Pipeline for the final Model : 
 
 ![](/assets/images/transformationPipeline.png)

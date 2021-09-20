@@ -3,6 +3,8 @@
 
 **Dataset used** : [Laptop Price Prediction Kaggle Dataset](https://www.kaggle.com/ionaskel/laptop-prices) <br/><br/>
 
+**Shape of the Dataset** : (1302, 12) <br/> Rows: 1302 <br/> Columns: 12 <br/> <br/>
+
 **Library & Frameworks used** : 
 - Pandas 
 - Numpy
@@ -31,6 +33,10 @@
 17. Lasso Regression
 18. Elastic Net	
 19. Lasso Least Angle Regression
+<br/><br/>
+
+![Description of Dataset]()
+
 
 
 

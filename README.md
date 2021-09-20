@@ -1,14 +1,16 @@
 # Laptop-Price-Prediction
 #### A python interface to predict the price of the laptop according to the specifications of the laptop ####
 
-**Dataset used** : [Laptop Price Prediction Kaggle Dataset](https://www.kaggle.com/ionaskel/laptop-prices) <br/>
+**Dataset used** : [Laptop Price Prediction Kaggle Dataset](https://www.kaggle.com/ionaskel/laptop-prices) <br/><br/>
+
 **Library & Frameworks used** : 
 - Pandas 
 - Numpy
 - Pickle
 - Sklearn
 - PyCaret
-- Streamlit <br/>
+- Streamlit <br/><br/>
+
 **Machine Learning Models used** : 
 1. Light Gradient Boosting Machine
 2. CatBoost Regressor

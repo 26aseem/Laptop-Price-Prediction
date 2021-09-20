@@ -38,7 +38,7 @@ Count Plot for OS <br/><br/>
 
 
 
-### Price vs Other Features : ### <br/>
+### Price vs Other Features : 
 
 ![](/assets/images/CPUvsprice.png)
 CPU vs Price Plot <br/><br/>
@@ -46,7 +46,7 @@ CPU vs Price Plot <br/><br/>
 ![](/assets/images/RAMvsprice.png)
 RAM vs Price Plot <br/><br/>
 
-![](/assets/images/weightVSprice.png)
+![](/assets/images/WeightVSprice.png)
 Laptop Weight(in kg) vs Price Plot <br/><br/>
 
 ![](/assets/images/touchscreenVSprice.png)

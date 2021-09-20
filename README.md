@@ -11,6 +11,8 @@
 **Check for Null Values** : <br/>
 ![Check for Null Values in the dataset](/assets/images/null values.png)
 <br>
+![Check for Null Values in the dataset](/assets/images/null values code.png)
+<br>
 There is no Null Value in the Dataset <br/>
 
 **Library & Frameworks used** : 

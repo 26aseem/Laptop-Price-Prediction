@@ -15,6 +15,58 @@
 <br>
 There is no Null Value in the Dataset <br/>
 
+
+**Description of different Features** : <br/>
+
+![](/assets/images/company.png)
+<br>
+Count Plot for CPU <br/>
+
+![](/assets/images/touchscreen.png)
+<br>
+Count Plot for Touchscreen Feature <br/>
+
+![](/assets/images/inch.png)
+<br>
+Count Plot for Screen Size <br/>
+
+![](/assets/images/Typename.png)
+<br>
+Count Plot for Type Name <br/>
+
+![](/assets/images/RAM.png)
+<br>
+Count Plot for RAM <br/>
+
+![](/assets/images/OS.png)
+<br>
+Count Plot for OS <br/>
+
+
+
+**Price vs Other Features** : <br/>
+
+![](/assets/images/CPUvsprice.png)
+<br>
+CPU vs Price Plot <br/>
+
+![](/assets/images/RAMvsprice.png)
+<br>
+RAM vs Price Plot <br/>
+
+![](/assets/images/weightVSprice.png)
+<br>
+Laptop Weight(in kg) vs Price Plot <br/>
+
+![](/assets/images/touchscreenVSprice.png)
+<br>
+Touchscreen vs Price Plot <br/>
+
+
+
+
+
+
 **Library & Frameworks used** : 
 - Pandas 
 - Numpy

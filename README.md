@@ -3,7 +3,7 @@
 
 **Dataset used** : [Laptop Price Prediction Kaggle Dataset](https://www.kaggle.com/ionaskel/laptop-prices) <br/><br/>
 
-**Shape of the Dataset** : (1302, 12) <br/> Rows: 1302 <br/> Columns: 12 <br/> <br/>
+**Shape of the Dataset** : (1302, 11) <br/> Rows: 1302 <br/> Columns: 12 <br/> <br/>
 
 ### Description of Dataset : 
 ![Description of Dataset](/assets/images/dataset.png)
@@ -37,7 +37,6 @@ Count Plot for RAM <br/><br/>
 Count Plot for OS <br/><br/>
 
 
-
 ### Price vs Other Features : 
 
 ![](/assets/images/CPUvsprice.png)
@@ -54,7 +53,38 @@ Touchscreen vs Price Plot <br/><br/>
 
 
 
+### Correlation between Features : 
 
+![](/assets/images/correlation.png)
+Heatmap for correlation between different features <br/><br/>
+
+
+### Features in the final Dataset : <br/>
+#### Input Features 
+- Company	
+- Type Name	
+- RAM(GB)	
+- Weight(kg)	
+- Touchscreen	
+- IPS	
+- PPI	
+- CPU Brand	
+- HDD	
+- SSD	
+- GPU Brand	
+- OS
+
+#### Output Feature
+- Price
+
+![](/assets/images/Final_dataset.png)
+Final Dataset before encoding <br/><br/>
+
+
+### One Hot Encoding : 
+
+![](/assets/images/encoding.png)
+Code for One Hot Encoding where the number of features increases to 38
 
 
 **Library & Frameworks used** : 

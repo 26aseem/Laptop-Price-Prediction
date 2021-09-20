@@ -5,10 +5,10 @@
 
 **Shape of the Dataset** : (1302, 12) <br/> Rows: 1302 <br/> Columns: 12 <br/> <br/>
 
-###Description of Dataset### : <br/>
+### Description of Dataset : ### <br/>
 ![Description of Dataset](/assets/images/dataset.png)
 
-**Check for Null Values** : <br/>
+### Check for Null Values : ### <br/>
 ![Check for Null Values in the dataset](/assets/images/null_values.png)
 <br>
 ![Check for Null Values in the dataset](/assets/images/null_values_code.png)
@@ -16,7 +16,7 @@
 There is no Null Value in the Dataset <br/>
 
 
-###Description of different Features### : <br/>
+### Description of different Features : ### <br/>
 
 ![](/assets/images/company.png)
 <br>
@@ -44,7 +44,7 @@ Count Plot for OS <br/>
 
 
 
-###Price vs Other Features### : <br/>
+### Price vs Other Features : ### <br/>
 
 ![](/assets/images/CPUvsprice.png)
 <br>

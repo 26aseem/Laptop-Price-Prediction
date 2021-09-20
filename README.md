@@ -13,7 +13,7 @@
 <br>
 ![Check for Null Values in the dataset](/assets/images/null_values_code.png)
 <br>
-There is no Null Value in the Dataset <br/>
+There is no Null Value in the Dataset <br/><br/>
 
 
 ### Description of different Features : 

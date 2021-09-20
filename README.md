@@ -1,2 +1,4 @@
 # Laptop-Price-Prediction
-A python interface to predict the laptop price according to the specifications
+A python interface to predict the price of the laptop according to the specifications of the laptop.
+
+

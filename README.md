@@ -84,7 +84,7 @@ Final Dataset before encoding <br/><br/>
 ### One Hot Encoding : 
 
 ![](/assets/images/encoding.png)
-Code for One Hot Encoding where the number of features increases to 38
+Code for One Hot Encoding where the number of features increases to 38<br/><br/>
 
 
 **Library & Frameworks used** : 

@@ -1,6 +1,8 @@
 # Laptop-Price-Prediction
 #### A python interface to predict the price of the laptop according to the specifications of the laptop ####
 
+**Live Project Link** : [Laptop Price Prediction Live Link](https://laptop-price-prediction-aseem.herokuapp.com/) <br/><br/>
+
 **Dataset used** : [Laptop Price Prediction Kaggle Dataset](https://www.kaggle.com/ionaskel/laptop-prices) <br/><br/>
 
 **Shape of the Dataset** : (1302, 11) <br/> Rows: 1302 <br/> Columns: 12 <br/> <br/>
@@ -118,8 +120,32 @@ Code for One Hot Encoding where the number of features increases to 38<br/><br/>
 <br/><br/>
 
 
+### Performance of different Machine Learning Models : 
+
+![](/assets/images/mlmodels.png)
+<br/><br/>
 
 
+### Tuning the Hyperparameters of the final ML Model : 
+
+![](/assets/images/tunedmodel.png)
+<br/><br/>
+
+### Transformation Pipeline for the final Model : 
+
+![](/assets/images/transformationPipeline.png)
+<br/><br/>
+
+
+### GUI : 
+
+![](/assets/images/gui.png)
+<br/><br/>
+
+### Prediction of Laptop Price : 
+
+![](/assets/images/output.png)
+<br/><br/>
 
 
 

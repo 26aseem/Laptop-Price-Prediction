@@ -35,7 +35,7 @@
 19. Lasso Least Angle Regression
 <br/><br/>
 
-![Description of Dataset]()
+![Description of Dataset](/assets/images/dataset.png)
 
 
 

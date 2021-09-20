@@ -5,7 +5,7 @@
 
 **Dataset used** : [Laptop Price Prediction Kaggle Dataset](https://www.kaggle.com/ionaskel/laptop-prices) <br/><br/>
 
-**Shape of the Dataset** : (1302, 11) <br/> Rows: 1302 <br/> Columns: 12 <br/> <br/>
+**Shape of the Dataset** : (1302, 11) <br/> Rows: 1302 <br/> Columns: 11 <br/> <br/>
 
 ### Description of Dataset : 
 ![Description of Dataset](/assets/images/dataset.png)
